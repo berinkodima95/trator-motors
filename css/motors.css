@@ -108,7 +108,8 @@ img { max-width: 100%; height: auto; }
 /* 10. Форма заявки */
 .contact_sub { text-align: center; color: #fff; margin-top: -10px; }
 .mail_section_1 select.mail_text { color: #555; }
-.send_bt { border: 0; cursor: pointer; display: block; margin: 0 auto; background: var(--accent); color: #fff; padding: 12px 40px; border-radius: 999px; font-weight: 700; transition: transform .2s ease; }
+.car_modal .car_modal__body { padding: 30px !important; }
+.send_bt { border: 0; cursor: pointer; display: block; margin: 0 auto; background: var(--ink); color: #fff; padding: 12px 40px; border-radius: 999px; font-weight: 700; transition: transform .2s ease; }
 .send_bt:hover { transform: scale(1.04); }
 .form_msg { margin: 16px auto 0; max-width: 520px; text-align: center; padding: 10px 14px; border-radius: 10px; font-weight: 600; }
 .form_msg.is-ok { background: #e8f8ee; color: #136c34; }
